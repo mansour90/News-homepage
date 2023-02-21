@@ -235,6 +235,10 @@ img {
 }
 
 /* Header */
+.header-image-mobile {
+  max-width: 100%;
+}
+
 .h1 {
   margin-block: 3rem 2.8rem;
 }
